@@ -1,4 +1,4 @@
-# Ron Duncan - A Celebration
+# Ron Duncan - a Celebration
 
 View at: ronduncan.github.io
 
