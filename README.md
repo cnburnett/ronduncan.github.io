@@ -4,6 +4,8 @@ This website is a celebration of the life of Ron Duncan; husband, father, grand-
 
 # About Ron
 
+Some words here
+
 # Discover more
 
 * [Family](./family.md)
