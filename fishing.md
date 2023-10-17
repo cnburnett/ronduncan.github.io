@@ -2,10 +2,7 @@ Here are some photos and videos of Ron in his element.
 
 Fishing on the Sooke River #1, Oct 14th 2014
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/D0lfqXtvqss" type="video/mp4">
-</video>
-
+[![Fishing on the Sooke River #1, Oct 14th 2014](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=aT3R9rvY1-I)
 
 
 Fishing on the Sooke River #2, Oct 14th 2014
