@@ -1,7 +1,10 @@
-# Ron Duncan - a Celebration
+# What?
 
-View at: ronduncan.net
+This website is a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend.
+# About Ron
 
-A celebration of the life of Ron Duncan
+# Discover more
 
-[Link to a family page](./family.md)
+* [Family](./family.md)
+* [Fishing](./fishing.md)
+
