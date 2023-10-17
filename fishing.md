@@ -1,3 +1,5 @@
+Home
+
 # Stories, photos and videos of Ron in his element.
 
 [Fishing with a seal on the Sooke River #1, Oct 14th 2014](https://www.youtube.com/watch?v=D0lfqXtvqss)
