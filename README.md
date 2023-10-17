@@ -1,3 +1,5 @@
+<img src="./assets/ron_birthday_sept_2023.png" alt="Ron's birthday 2023" width="300"/>
+
 This website is a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend.
 
 # About Ron
