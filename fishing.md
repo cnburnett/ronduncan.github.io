@@ -4,9 +4,9 @@
 
 ## 2023
 
-![Bamfield August 2023](./assets/ron_fishing_bamfield_aug_2023.png)
+![Bamfield August 2023](./assets/ron_fishing_bamfield_aug_2023.png){width=200}
 
-![Bamfield August 2023 #2](./assets/ron_fishing_bamfield_aug_2023_2.png)
+![Bamfield August 2023 #2](./assets/ron_fishing_bamfield_aug_2023_2.png){width=200}
 
 ## 2014
 
