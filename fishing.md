@@ -4,7 +4,7 @@
 
 ## 2023
 
-<img src="./assets/ron_fishing_bamfield_aug_2023.png" alt="Bamfield August 2023" width="200"/>
+<img src="./assets/ron_fishing_bamfield_aug_2023.png" alt="Bamfield August 2023" width="300"/>
 
 <img src="./assets/ron_fishing_bamfield_aug_2023_2.png" alt="Bamfield August 2023 #2" width="200"/>
 
