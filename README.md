@@ -8,6 +8,7 @@ This website is a celebration of the life of Ron Duncan; husband, father, grand-
 
 * [Family](./family.md)
 * [Fishing](./fishing.md)
+* [Travels](./travels.md)
 
 # Tributes & Memories
 
