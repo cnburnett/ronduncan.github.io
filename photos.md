@@ -70,4 +70,4 @@
 060. <img src="./assets/ronduncan060.png" alt=""/><br>
 061. <img src="./assets/ronduncan061.png" alt=""/><br>
 062. <img src="./assets/ronduncan062.png" alt=""/><br>
-063. <img src="./assets/ronduncan063.png" alt=""/><br>
+063. <img src="./assets/ronduncan063.png" alt=""/> - fishing on the Sooke River https://youtu.be/aT3R9rvY1-I<br>
