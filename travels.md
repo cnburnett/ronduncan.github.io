@@ -1,1 +1,0 @@
-All the amazing places
