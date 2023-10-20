@@ -7,4 +7,5 @@ Some words here
 # Discover more
 
 [Photos](./photos)
+
 [Tributes](./tributes)
