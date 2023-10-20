@@ -1,6 +1,6 @@
 This website is a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend.
 
-![Ron Duncan, fine wine](./assets/ronduncan037.png)
+<img src="./assets/ronduncan036.png" alt="Ron and a glass of wine"/>
 
 # About Ron
 
