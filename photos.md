@@ -41,7 +41,6 @@
 034. <img src="./assets/ronduncan034.png" alt=""/><br>
 035. <img src="./assets/ronduncan035.png" alt=""/><br>
 036. <img src="./assets/ronduncan036.png" alt=""/><br>
-037. <img src="./assets/ronduncan037.png" alt=""/><br>
 038. <img src="./assets/ronduncan038.png" alt=""/><br>
 039. <img src="./assets/ronduncan039.png" alt=""/><br>
 
@@ -70,4 +69,4 @@
 060. <img src="./assets/ronduncan060.png" alt=""/><br>
 061. <img src="./assets/ronduncan061.png" alt=""/><br>
 062. <img src="./assets/ronduncan062.png" alt=""/><br>
-063. <img src="./assets/ronduncan063.png" alt=""/> - fishing on the Sooke River https://youtu.be/aT3R9rvY1-I<br>
+063. <img src="./assets/ronduncan063.png" alt=""/> - YouTube fishing on the Sooke River in October 2014 - [https://youtu.be/aT3R9rvY1-I](https://youtu.be/aT3R9rvY1-I)<br>
