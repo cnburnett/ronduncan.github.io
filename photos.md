@@ -2,6 +2,8 @@
 
 # Photos
 
+_Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br>
+
 001. <img src="./assets/ronduncan001.png" alt=""/><br>
 002. <img src="./assets/ronduncan002.png" alt=""/><br>
 003. <img src="./assets/ronduncan003.png" alt=""/><br>
