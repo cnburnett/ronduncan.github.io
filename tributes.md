@@ -2,6 +2,8 @@
 
 # Tributes & Memories
 
+_Please send your notes to anneduncan123@yahoo.ca and burnett@pm.me_<br>
+
 Ron, you have been a wonderful friend to us and we have enjoyed so many fun times and great laughter and wonderful music together.<br>
 We will miss you terribly. - Sandra and Steve Neilson - Victoria, BC
 
