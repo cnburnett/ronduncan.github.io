@@ -21,7 +21,6 @@ p030. <img src="./assets/ronduncan030.png" alt=""/><br>
 p032. <img src="./assets/ronduncan032.png" alt=""/><br>
 p038. <img src="./assets/ronduncan038.png" alt=""/><br>
 p039. <img src="./assets/ronduncan039.png" alt=""/><br>
-p044. <img src="./assets/ronduncan044.png" alt=""/><br>
 p024. <img src="./assets/ronduncan024.png" alt=""/><br>
 p046. <img src="./assets/ronduncan046.png" alt=""/><br>
 p047. <img src="./assets/ronduncan047.png" alt=""/><br>
@@ -54,7 +53,8 @@ p061. <img src="./assets/ronduncan061.png" alt=""/><br>
 ## Friends
 
 p028. <img src="./assets/ronduncan028.png" alt=""/><br>
-p043. <img src="./assets/ronduncan043.png" alt=""/><br> 
+p043. <img src="./assets/ronduncan043.png" alt=""/><br>
+p044. <img src="./assets/ronduncan044.png" alt=""/><br> 
 
 
 ## Fishing
