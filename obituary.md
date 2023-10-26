@@ -15,4 +15,4 @@ The family would like to thank his Victoria friends and family for all their sup
 
 A Celebration of Life will take place on Thursday October 26th in Victoria, BC.
 
-In lieu of flowers, please donate to the BC Cancer Foundation at http://www.bccancer.bc.ca/donate
+In lieu of flowers, please donate to the BC Cancer Foundation at <a href="http://www.bccancer.bc.ca/donate" target="_blank">www.bccancer.bc.ca/donate</a>.
