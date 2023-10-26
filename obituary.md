@@ -1,3 +1,5 @@
+[Home](./README.md)
+
 # DUNCAN, Ronald Sydney (Ron)
 
 Ron passed peacefully surrounded by close family on Friday October 20, 2023.  He had just celebrated his 80th birthday one month earlier and had been living life to the fullest.  Since his cancer diagnosis 2 years ago, he was determined to make the most of his time and enjoyed each day.
