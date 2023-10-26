@@ -2,13 +2,7 @@
 
 # Photos
 
-_Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br>
-
-## Outdoors
-
-p045. <img src="./assets/ronduncan045.png" alt=""/><br>
-p005. <img src="./assets/ronduncan005.png" alt=""/><br>
-p019. <img src="./assets/ronduncan019.png" alt=""/><br>
+_Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br><br>
 
 ## Olden Days
 
@@ -41,6 +35,7 @@ p055. <img src="./assets/ronduncan055.png" alt=""/><br>
 p058. <img src="./assets/ronduncan058.png" alt=""/><br>
 p059. <img src="./assets/ronduncan059.png" alt=""/><br>
 p060. <img src="./assets/ronduncan060.png" alt=""/><br>
+p045. <img src="./assets/ronduncan045.png" alt=""/><br>
 p017. <img src="./assets/ronduncan017.png" alt=""/><br>
 p018. <img src="./assets/ronduncan018.png" alt=""/><br> 
 p021. <img src="./assets/ronduncan021.png" alt=""/><br>
