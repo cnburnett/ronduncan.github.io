@@ -38,4 +38,4 @@ Keep humming those Scottish tunes! - Tony Lambert - Victoria, BC
 Ron coaxed me back into fly-fishing after a 20 year hiatus, guiding me onto Matheson and Durrance Lakes and to the Sooke and Cowichan Rivers. He was generous with his time and advice, always positive, and keen to answer questions. - Charles Burnett- Victoria, BC
 
 <img src="./assets/ron_holding_slippery_fish.jpeg" alt="" width="100px"/><br>
-We must hold onto life and its opportunities and experiences like Ron is holding this fish - it can be slippery and get away on us if we’re not careful! But it’s so full of blessings. - Daniel Lapp to Folkestra members, Victoria, BC
+We must hold onto life and its opportunities and experiences like Ron is holding this fish - it can be slippery and get away on us if we’re not careful! But it’s so full of blessings. - Daniel Lapp to <a href="https://vcm.bc.ca/learn/programs/folkestra/" target="_blank">Folkestra</a> members, Victoria, BC
