@@ -16,8 +16,6 @@ p003. <img src="./assets/ronduncan003.png" alt=""/><br>
 p009. <img src="./assets/ronduncan009.png" alt=""/><br>
 p015. <img src="./assets/ronduncan015.png" alt=""/><br>
 p010. <img src="./assets/ronduncan010.png" alt=""/><br>
-p002. <img src="./assets/ronduncan002.png" alt=""/><br>
-p008. <img src="./assets/ronduncan008.png" alt=""/><br>
 p029. <img src="./assets/ronduncan029.png" alt=""/><br>
 p030. <img src="./assets/ronduncan030.png" alt=""/><br>
 p032. <img src="./assets/ronduncan032.png" alt=""/><br>
@@ -42,8 +40,8 @@ p021. <img src="./assets/ronduncan021.png" alt=""/><br>
 p022. <img src="./assets/ronduncan022.png" alt=""/><br>
 p023. <img src="./assets/ronduncan023.png" alt=""/><br> 
 p025. <img src="./assets/ronduncan025.png" alt=""/><br>
-p026. <img src="./assets/ronduncan026.png" alt=""/><br>
-p027. <img src="./assets/ronduncan027.png" alt=""/><br>
+p002. <img src="./assets/ronduncan002.png" alt=""/><br>
+p008. <img src="./assets/ronduncan008.png" alt=""/><br>
 p051. <img src="./assets/ronduncan051.png" alt=""/><br>
 p052. <img src="./assets/ronduncan052.png" alt=""/><br>
 p053. <img src="./assets/ronduncan053.png" alt=""/><br>
@@ -76,7 +74,8 @@ p040. <img src="./assets/ronduncan040.png" alt=""/><br>
 p057. <img src="./assets/ronduncan057.png" alt=""/><br>
 
 ## Music
-
+p026. <img src="./assets/ronduncan026.png" alt=""/><br>
+p027. <img src="./assets/ronduncan027.png" alt=""/><br>
 
 
 
