@@ -48,6 +48,7 @@ p052. <img src="./assets/ronduncan052.png" alt=""/><br>
 p053. <img src="./assets/ronduncan053.png" alt=""/><br>
 p031. <img src="./assets/ronduncan031.png" alt=""/><br>
 p016. <img src="./assets/ronduncan016.png" alt=""/><br>
+p040. <img src="./assets/ronduncan040.png" alt=""/><br>
 p061. <img src="./assets/ronduncan061.png" alt=""/><br>
 
 ## Friends
@@ -66,14 +67,13 @@ p012. <img src="./assets/ronduncan012.png" alt=""/><br>
 p013. <img src="./assets/ronduncan013.png" alt=""/><br>
 p014. <img src="./assets/ronduncan014.png" alt=""/><br> 
 p035. <img src="./assets/ronduncan035.png" alt=""/><br>
-p041. <img src="./assets/ronduncan041.png" alt=""/><br>
 p062. <img src="./assets/ronduncan062.png" alt=""/><br>
 p042. <img src="./assets/ronduncan042.png" alt=""/><br>
 p063. <img src="./assets/ronduncan063.png" alt=""/> - YouTube fishing on the Sooke River in October 2014 - [https://youtu.be/aT3R9rvY1-I](https://youtu.be/aT3R9rvY1-I)<br>
 
 ## Food
 p036. <img src="./assets/ronduncan036.png" alt=""/><br>
-p040. <img src="./assets/ronduncan040.png" alt=""/><br>
+p041. <img src="./assets/ronduncan041.png" alt=""/><br>
 p057. <img src="./assets/ronduncan057.png" alt=""/><br>
 
 ## Music
