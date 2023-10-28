@@ -5,6 +5,7 @@ plugins:
 github:
   is_project_page: false
 
+google_analytics: G-QEZV72JT5Q
 
 show_downloads: false
 
