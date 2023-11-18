@@ -1,5 +1,7 @@
 [Home](./README.md)
 
+[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
+
 # Tributes & Memories
 
 _Please send your notes to anneduncan123@yahoo.ca and burnett@pm.me_<br>
