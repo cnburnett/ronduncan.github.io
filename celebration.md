@@ -65,4 +65,5 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 
 ## <a id="video-links"></a>Video links
 
-<br>Links coming soon
+- <a href="https://youtu.be/vwKXPFAUJmU" target="_blank">https://youtu.be/vwKXPFAUJmU</a><br>
+- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8</a><br>
