@@ -14,10 +14,12 @@ A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 20
 <br><img src="./assets/ron_celebration_of_life_card_side1.png" alt=""/><br><br> 
 <img src="./assets/ron_celebration_of_life_card_side2.png" alt=""/>
 <br>
+Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
+<br>
 
 ## <a id="photos"></a>Photos
 
-<br><img src="./assets/ron_celebration/ron_celebration001.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration001.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration002.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration003.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration004.png" alt=""/><br>
