@@ -1,6 +1,6 @@
-This website is a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
-
 [Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
+
+This website is a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
 
 ### A Celebration of Ron's life was held at Spinnakers Gastro Brewpub on Thursday October 26th at 2 PM. Friends and family raised a glass in his honour and told some stories - see [Celebration](./celebration.md). 
 
