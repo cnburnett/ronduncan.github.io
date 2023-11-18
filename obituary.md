@@ -1,4 +1,4 @@
-[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
+<center>[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)</center>
 
 # DUNCAN, Ronald Sydney (Ron)
 
