@@ -22,7 +22,7 @@ Much loved by his life partner, his two children, five grandchildren and wide ci
 
 His adventurous spirit lives on.
 
-# Discover more
+# Discover more about Ron
 
 [Celebration](./celebration)
 
