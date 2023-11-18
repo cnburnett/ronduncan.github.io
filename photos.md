@@ -1,4 +1,4 @@
-[Home](./README.md)
+[Home](./README.md) [Celebration](./celebration.md)  [Obituary](./obituary.md)  [Photos](./photos.md)  [Tributes](./tributes.md)
 
 # Photos
 
