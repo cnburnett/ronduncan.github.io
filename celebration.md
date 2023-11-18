@@ -16,7 +16,7 @@ A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 20
 
 <img src="./assets/ron_celebration_of_life_card_side1.png" alt=""/><br><br> 
 <img src="./assets/ron_celebration_of_life_card_side2.png" alt=""/>
-
+<br>
 ## [Photos](#photos)
 
 <img src="./assets/ron_celebration/ron_celebration001.png" alt=""/><br>
@@ -61,7 +61,7 @@ A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 20
 <img src="./assets/ron_celebration/ron_celebration040.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration041.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration042.png" alt=""/><br>
-
+<br>
 ## [Video links](#video-links)
 
 Links coming soon
