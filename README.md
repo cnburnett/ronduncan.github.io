@@ -1,4 +1,4 @@
-<center>[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)</center>
+[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
 
 This website is a celebration of the life of Ron Duncan; husband, father, grand-father, uncle, friend, bon vivant, fiddler, fisherman, Tai chi instructor, and entrepreneur.
 
@@ -10,9 +10,9 @@ This website is a celebration of the life of Ron Duncan; husband, father, grand-
 
 Ron passed peacefully surrounded by close family on Friday October 20, 2023.  He had just celebrated his 80th birthday one month earlier and had been living life to the fullest.
 
-Ron was a lifelong lover of all things food, fishing and fiddling, particularly during his retirement in the beautiful city of Victoria, BC.
+Ron was a lifelong lover of all things food, fishing and fiddling, particularly during his retirement in the beautiful city of Victoria, British Columbia.
 
-Ron was a teacher and administrator in London, ON for 33 years.
+Ron was a teacher and administrator in London, Ontario for 33 years.
 
 He was a lifelong learner: with particular interests in the fiddle, fly-tying and Tai Chi. After learning Tai Chi, he enjoyed teaching the art to others.
 
