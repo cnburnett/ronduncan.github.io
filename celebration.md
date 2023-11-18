@@ -3,7 +3,7 @@
 # Celebration of Life
 
 A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 2023. 
-<br> 
+<br>
 
 - [Invitation card](#invitation-card)
 - [Photos](#photos)
