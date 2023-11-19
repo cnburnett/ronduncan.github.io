@@ -1,5 +1,4 @@
-[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
-
+[Home](./README.md) &nbsp;&nbsp;&nbsp;&nbsp;[Celebration of Life](./celebration.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Obituary](./obituary.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Photos](./photos.md)  &nbsp;&nbsp;&nbsp;&nbsp;[Tributes](./tributes.md)
 # Celebration of Life
 
 A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 2023. 
@@ -65,5 +64,8 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 
 ## <a id="video-links"></a>Video links
 
-- <a href="https://youtu.be/vwKXPFAUJmU" target="_blank">https://youtu.be/vwKXPFAUJmU</a><br>
-- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8</a><br>
+- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8 - Julian playing Fiddler's Bid</a><br>
+- <a href="https://youtu.be/Ii2oowBDlhQ" target="_blank">https://youtu.be/Ii2oowBDlhQ - Julian playing Fiddler's Bid #2</a><br>
+- <a href="https://youtu.be/deq14o9MhOE" target="_blank">https://youtu.be/deq14o9MhOE - Oliver Schroer - A Song for All Seasons</a><br>
+- <a href="https://youtu.be/afCiDQ5arB8" target="_blank">https://youtu.be/afCiDQ5arB8 - Inisheer</a><br>
+- <a href="https://youtube.com/shorts/N50IpIZsJHs" target="_blank">https://youtube.com/shorts/N50IpIZsJHs - Gavin playing Niel Gow - Lament for the Death of his Brother</a><br>
