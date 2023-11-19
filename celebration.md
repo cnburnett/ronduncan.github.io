@@ -4,11 +4,11 @@
 A Celebration of Life was held at Spinnakers Brewpub on Thursday October 26th 2023. 
 <br>
 
-- [Invitation card](#invitation-card)
+- [Memory card](#memory-card)
 - [Photos](#photos)
 - [Video links](#video-links)
 
-## <a id="invitation-card"></a>Invitation card
+## <a id="memory-card"></a>Memory card
 
 <br><img src="./assets/ron_celebration_of_life_card_side1.png" alt=""/><br><br> 
 <img src="./assets/ron_celebration_of_life_card_side2.png" alt=""/>
@@ -64,10 +64,13 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 
 ## <a id="video-links"></a>Video links
 
-- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8 - Julian playing Fiddler's Bid</a><br>
-- <a href="https://youtu.be/Ii2oowBDlhQ" target="_blank">https://youtu.be/Ii2oowBDlhQ - Julian playing Fiddler's Bid #2</a><br>
+- <a href="https://youtu.be/Ii2oowBDlhQ" target="_blank">https://youtu.be/Ii2oowBDlhQ - Julian playing Fiddler's Bid</a><br>
+- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8 - Julian playing Fiddler's Bid #2</a><br>
+- <a href="https://youtu.be/VKDI4z8EbFE" target="_blank">https://youtu.be/VKDI4z8EbFE - Anne and Julian playing Niel Gow's Lament - Part 1</a><br>
+- <a href="https://youtu.be/OtawcPn9vhg" target="_blank">https://youtu.be/OtawcPn9vhg - Anne and Julian playing Niel Gow's Lament - Part 2</a><br>
 - <a href="https://youtu.be/deq14o9MhOE" target="_blank">https://youtu.be/deq14o9MhOE - Oliver Schroer - A Song for All Seasons</a><br>
 - <a href="https://youtu.be/afCiDQ5arB8" target="_blank">https://youtu.be/afCiDQ5arB8 - Inisheer</a><br>
 - <a href="https://youtube.com/shorts/N50IpIZsJHs" target="_blank">https://youtube.com/shorts/N50IpIZsJHs - Gavin playing Niel Gow - Lament for the Death of his Brother</a><br>
 - <a href="https://youtu.be/ZkqxHPyfeM4" target="_blank">https://youtu.be/ZkqxHPyfeM4 - Graham Metcalfe - What's the Life of a Man?</a><br>
 - <a href="https://youtu.be/1DtJGiSnyRM" target="_blank">https://youtu.be/1DtJGiSnyRM - Fiddle Tunes - Ron's playlist</a><br>
+- <a href="https://youtu.be/82EgqOzcFj0" target="_blank">https://youtu.be/82EgqOzcFj0 - Fiddle Tunes - Ron's jigs</a><br>
