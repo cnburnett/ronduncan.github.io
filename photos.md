@@ -8,6 +8,10 @@ _Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br><br>
 p001. <img src="./assets/ronduncan001.png" alt=""/><br>
 p033. <img src="./assets/ronduncan033.png" alt=""/><br> 
 p034. <img src="./assets/ronduncan034.png" alt=""/><br>
+ron_olddays001 <img src="./assets/ron_olddays001.png" alt=""/><br>
+ron_olddays002 <img src="./assets/ron_olddays002.png" alt=""/><br>
+ron_olddays003 <img src="./assets/ron_olddays003.png" alt=""/><br>
+ron_olddays004 <img src="./assets/ron_olddays004.png" alt=""/><br>
 
 ## Family
 
@@ -48,12 +52,28 @@ p031. <img src="./assets/ronduncan031.png" alt=""/><br>
 p016. <img src="./assets/ronduncan016.png" alt=""/><br>
 p040. <img src="./assets/ronduncan040.png" alt=""/><br>
 p061. <img src="./assets/ronduncan061.png" alt=""/><br>
+ron_family001 <img src="./assets/ron_family001.png" alt=""/><br>
+ron_family002 <img src="./assets/ron_family002.png" alt=""/><br>
+ron_family003 <img src="./assets/ron_family003.png" alt=""/><br>
+ron_family004 <img src="./assets/ron_family004.png" alt=""/><br>
+ron_family005 <img src="./assets/ron_family005.png" alt=""/><br>
+ron_family006 <img src="./assets/ron_family006.png" alt=""/><br>
+ron_family007 <img src="./assets/ron_family007.png" alt=""/><br>
 
 ## Friends
 
 p028. <img src="./assets/ronduncan028.png" alt=""/><br>
 p043. <img src="./assets/ronduncan043.png" alt=""/><br>
-p044. <img src="./assets/ronduncan044.png" alt=""/><br> 
+p044. <img src="./assets/ronduncan044.png" alt=""/><br>
+ron_friends001 <img src="./assets/ron_friends001.png" alt=""/><br>
+ron_friends002 <img src="./assets/ron_friends002.png" alt=""/><br> 
+ron_friends003 <img src="./assets/ron_friends003.png" alt=""/><br> 
+ron_friends004 <img src="./assets/ron_friends004.png" alt=""/><br> 
+ron_friends005 <img src="./assets/ron_friends005.png" alt=""/><br> 
+ron_friends006 <img src="./assets/ron_friends006.png" alt=""/><br> 
+ron_friends007 <img src="./assets/ron_friends007.png" alt=""/><br> 
+ron_friends008 <img src="./assets/ron_friends008.png" alt=""/><br> 
+ron_friends009 <img src="./assets/ron_friends009.png" alt=""/><br>  
 
 
 ## Fishing
