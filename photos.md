@@ -6,7 +6,7 @@ _Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br><br>
 ## Olden Days
 
 p001. <img src="./assets/ronduncan001.png" alt=""/><br>
-p033. <img src="./assets/ronduncan033.png" alt=""/><br>3 
+p033. <img src="./assets/ronduncan033.png" alt=""/><br> 
 p034. <img src="./assets/ronduncan034.png" alt=""/><br>
 
 ## Family
@@ -69,13 +69,26 @@ p035. <img src="./assets/ronduncan035.png" alt=""/><br>
 p062. <img src="./assets/ronduncan062.png" alt=""/><br>
 p042. <img src="./assets/ronduncan042.png" alt=""/><br>
 p063. <img src="./assets/ronduncan063.png" alt=""/> - YouTube fishing on the Sooke River in October 2014 - [https://youtu.be/aT3R9rvY1-I](https://youtu.be/aT3R9rvY1-I)<br>
+ron_fishing001 <img src="./assets/ron_fishing001.png" alt=""/><br>
+ron_fishing002 <img src="./assets/ron_fishing002.png" alt=""/><br>
+ron_fishing003 <img src="./assets/ron_fishing003.png" alt=""/><br>
+ron_fishing004 <img src="./assets/ron_fishing004.png" alt=""/><br>
+ron_fishing005 <img src="./assets/ron_fishing005.png" alt=""/><br>
+ron_fishing006 <img src="./assets/ron_fishing006.png" alt=""/><br>
+ron_fishing007 <img src="./assets/ron_fishing007.png" alt=""/><br>
 
 ## Food
+
 p036. <img src="./assets/ronduncan036.png" alt=""/><br>
 p041. <img src="./assets/ronduncan041.png" alt=""/><br>
 p057. <img src="./assets/ronduncan057.png" alt=""/><br>
+ron_foodie001 <img src="./assets/ron_foodie001.png" alt=""/><br>
+ron_foodie002 <img src="./assets/ron_foodie002.png" alt=""/><br>
+ron_foodie003 <img src="./assets/ron_foodie003.png" alt=""/><br>
+ron_foodie004 <img src="./assets/ron_foodie004.png" alt=""/><br>
 
 ## Music
+
 p026. <img src="./assets/ronduncan026.png" alt=""/><br>
 p027. <img src="./assets/ronduncan027.png" alt=""/><br>
 

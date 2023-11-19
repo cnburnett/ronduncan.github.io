@@ -20,7 +20,6 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 
 <img src="./assets/ron_celebration/ron_celebration001.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration002.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration003.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration004.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration005.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration006.png" alt=""/><br>
