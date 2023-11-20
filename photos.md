@@ -3,6 +3,12 @@
 
 _Please send your photos to anneduncan123@yahoo.ca and burnett@pm.me_<br><br>
 
+## Recent Family Portraits
+
+p001. <img src="./assets/ron_and_family" alt=""/><br>
+p001. <img src="./assets/ron_and_grandkids.png" alt=""/><br>
+
+
 ## Olden Days
 
 p001. <img src="./assets/ronduncan001.png" alt=""/><br>
@@ -13,7 +19,7 @@ ron_olddays002 <img src="./assets/ron_olddays002.png" alt=""/><br>
 ron_olddays003 <img src="./assets/ron_olddays003.png" alt=""/><br>
 ron_olddays004 <img src="./assets/ron_olddays004.png" alt=""/><br>
 
-## Family
+## More Family
 
 p015. <img src="./assets/ronduncan015.png" alt=""/><br>
 p003. <img src="./assets/ronduncan003.png" alt=""/><br>
@@ -52,6 +58,7 @@ p031. <img src="./assets/ronduncan031.png" alt=""/><br>
 p016. <img src="./assets/ronduncan016.png" alt=""/><br>
 p040. <img src="./assets/ronduncan040.png" alt=""/><br>
 p061. <img src="./assets/ronduncan061.png" alt=""/><br>
+p027. <img src="./assets/ronduncan027.png" alt=""/><br>
 ron_family001 <img src="./assets/ron_family001.png" alt=""/><br>
 ron_family002 <img src="./assets/ron_family002.png" alt=""/><br>
 ron_family003 <img src="./assets/ron_family003.png" alt=""/><br>
@@ -65,6 +72,7 @@ ron_family007 <img src="./assets/ron_family007.png" alt=""/><br>
 p028. <img src="./assets/ronduncan028.png" alt=""/><br>
 p043. <img src="./assets/ronduncan043.png" alt=""/><br>
 p044. <img src="./assets/ronduncan044.png" alt=""/><br>
+p026. <img src="./assets/ronduncan026.png" alt=""/><br>
 ron_friends001 <img src="./assets/ron_friends001.png" alt=""/><br>
 ron_friends002 <img src="./assets/ron_friends002.png" alt=""/><br> 
 ron_friends003 <img src="./assets/ron_friends003.png" alt=""/><br> 
@@ -74,7 +82,6 @@ ron_friends006 <img src="./assets/ron_friends006.png" alt=""/><br>
 ron_friends007 <img src="./assets/ron_friends007.png" alt=""/><br> 
 ron_friends008 <img src="./assets/ron_friends008.png" alt=""/><br> 
 ron_friends009 <img src="./assets/ron_friends009.png" alt=""/><br>  
-
 
 ## Fishing
 
@@ -107,10 +114,9 @@ ron_foodie002 <img src="./assets/ron_foodie002.png" alt=""/><br>
 ron_foodie003 <img src="./assets/ron_foodie003.png" alt=""/><br>
 ron_foodie004 <img src="./assets/ron_foodie004.png" alt=""/><br>
 
-## Music
 
-p026. <img src="./assets/ronduncan026.png" alt=""/><br>
-p027. <img src="./assets/ronduncan027.png" alt=""/><br>
+
+
 
 
 
