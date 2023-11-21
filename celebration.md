@@ -64,7 +64,7 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 ## <a id="video-links"></a>Video links
 
 - <a href="https://youtu.be/Ii2oowBDlhQ" target="_blank">https://youtu.be/Ii2oowBDlhQ - Julian playing Fiddler's Bid - Part 1</a><br>
-- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8 - Julian playing Fiddler's Bid - Part 1</a><br>
+- <a href="https://youtu.be/okJEnr3S5K8" target="_blank">https://youtu.be/okJEnr3S5K8 - Julian playing Fiddler's Bid - Part 2</a><br>
 - <a href="https://youtu.be/VKDI4z8EbFE" target="_blank">https://youtu.be/VKDI4z8EbFE - Anne and Julian playing Niel Gow's Lament - Part 1</a><br>
 - <a href="https://youtu.be/OtawcPn9vhg" target="_blank">https://youtu.be/OtawcPn9vhg - Anne and Julian playing Niel Gow's Lament - Part 2</a><br>
 - <a href="https://youtube.com/shorts/N50IpIZsJHs" target="_blank">https://youtube.com/shorts/N50IpIZsJHs - Gavin playing Niel Gow - Lament for the Death of his Brother</a><br>
