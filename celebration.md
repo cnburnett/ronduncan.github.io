@@ -18,6 +18,18 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 
 ## <a id="photos"></a>Photos
 
+<img src="./assets/ron_celebration/ron_celebration050.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration051.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration052.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration053.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration054.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration055.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration056.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration056a.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration057.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration058.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration059.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration060.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration001.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration002.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration004.png" alt=""/><br>
