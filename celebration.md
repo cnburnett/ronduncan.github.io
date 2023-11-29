@@ -18,18 +18,18 @@ Big thanks to cousins Myra Scott Legge and Sarah Cook for designing the card.
 
 ## <a id="photos"></a>Photos
 
-<img src="./assets/ron_celebration/ron_celebration050.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration051.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration052.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration053.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration054.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration055.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration056.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration056a.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration057.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration058.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration059.png" alt=""/><br>
-<img src="./assets/ron_celebration/ron_celebration060.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_050.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_051.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_052.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_053.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_054.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_055.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_056.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_056a.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_057.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_058.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_059.png" alt=""/><br>
+<img src="./assets/ron_celebration/ron_celebration_jd_060.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration001.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration002.png" alt=""/><br>
 <img src="./assets/ron_celebration/ron_celebration004.png" alt=""/><br>
